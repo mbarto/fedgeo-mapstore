@@ -1,0 +1,8 @@
+MAP
+TABLE (today states) - FILTER 10/06/2020
+CONNECT
+CHARTS 
+    - PIE (today states) - FILTER 10/06/2020
+    - LINE (NY in time) - FILTER state = 'NY'
+    - COUNTER (states today positive > 20000)
+

@@ -1,0 +1,26 @@
+COVER:
+Covid-19 USA Real time tracking
+https://www.neodemos.info/wp-content/uploads/2020/03/covid_previsioni_nl.jpg
+
+Immersive Section - MAP BACGROUND
+
+Text 1
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel tempus nisi. Vivamus at metus sit amet odio mattis sodales. Maecenas in pellentesque sapien. Aenean feugiat tincidunt elementum. Pellentesque quis risus at lorem dapibus cursus. Cras ut arcu dui. Curabitur nec rutrum metus. Sed consectetur tincidunt pellentesque. Sed cursus erat orci, vitae rutrum lorem sagittis quis. Suspendisse faucibus diam ac interdum viverra. Vivamus quis fringilla diam. Nam risus purus, venenatis in finibus et, malesuada vel nibh. Sed suscipit semper est, eu suscipit mi suscipit tincidunt. Ut aliquet luctus tincidunt.
+
+Text 2
+Proin imperdiet volutpat purus, nec semper tellus pulvinar quis. Pellentesque ut mollis velit. Pellentesque id vehicula dui, vulputate auctor est. Etiam gravida sodales eleifend. Integer non lobortis magna. Aliquam imperdiet vitae felis sed porttitor. Nunc diam dolor, molestie vitae dignissim at, feugiat at nisl. Morbi dictum consectetur placerat. Ut massa magna, tempus venenatis suscipit non, ornare nec enim.
+
+Cras eu nunc sapien. Curabitur porta non magna rhoncus cursus. Praesent aliquet lacus non mollis blandit. Mauris vehicula erat quis odio convallis, at elementum nibh mollis. Nullam vitae diam ut quam feugiat vulputate. Nulla nec aliquam urna. Praesent placerat velit nisl, aliquet dictum justo iaculis ut. Quisque ullamcorper ullamcorper mollis. Nam mollis nulla dui, vitae maximus enim ullamcorper quis. Quisque fermentum mauris eu orci mollis, pellentesque suscipit felis sodales. Praesent maximus rutrum semper. Vestibulum fermentum magna risus, a aliquam odio dictum consectetur. Etiam ullamcorper eros eget elit laoreet mattis. Vivamus eget commodo enim.
+
+Donec viverra posuere eros. Praesent lorem arcu, interdum sit amet eros ut, malesuada aliquet nunc. Etiam maximus malesuada luctus. Nulla orci ante, tempor vel ornare in, lacinia eget nibh. Suspendisse nec scelerisque libero. Nulla posuere magna ac lectus porttitor euismod. Aliquam vestibulum placerat sapien. In dignissim neque lectus, nec consequat eros egestas ac. Pellentesque sed eros eget risus molestie dignissim. Sed luctus leo fringilla sem tristique mattis nec ac eros. Ut ac enim tristique, dapibus massa eget, lacinia purus. Cras ullamcorper lectus vel diam rutrum fermentum.
+
+Etiam odio sem, lobortis sed vestibulum a, pharetra et nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat, diam sed faucibus egestas, enim nisi interdum libero, nec consectetur massa libero eget enim. Sed at aliquet magna. Maecenas aliquam augue arcu, at molestie risus lacinia id. Etiam dictum scelerisque eros, finibus iaculis augue ultricies in. Nunc in velit ultrices nulla cursus sollicitudin vel elementum orci. Nam lacinia sem feugiat dui iaculis, ut molestie nulla vehicula. Fusce lacus nisl, accumsan sit amet ornare in, tristique in nunc. Etiam vulputate sem et sodales volutpat.
+
+Media Section
+Video
+https://www.youtube.com/watch?v=dDHJW4r3elE
+
+Embedded Page
+https://www.covidtrackingmap.com/
+
+
